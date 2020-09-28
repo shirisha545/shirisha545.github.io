@@ -1,0 +1,7 @@
+/* Element Selectors */
+h2{
+    color: brown;
+}
+table tr,td,th{
+    border: 1px solid black;
+}
